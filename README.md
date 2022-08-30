@@ -16,4 +16,5 @@
 			- Add Seeds folder
 			- Add DefaultRoles
 			- Add DefaultUsers
+			- Modify Main method to seed database
 		

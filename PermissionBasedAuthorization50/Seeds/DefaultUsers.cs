@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using PermissionBasedAuthorization50.Constants;
+using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
 
