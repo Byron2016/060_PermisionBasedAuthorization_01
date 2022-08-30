@@ -25,4 +25,10 @@
 			- Add RolesController
 			- Add Index view.
 			- Test it: localhost:44389/Roles
+		- Add a feature to assign users to roles
+			- Add UserRolesViewModel and ManageUserRolesViewModel class
+			- Add UserRolesController
+			- Add index view
+			
+			- Test it: go to localhost:44389/Users and press user you want to change roles.
 		
