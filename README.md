@@ -31,4 +31,13 @@
 			- Add index view
 			
 			- Test it: go to localhost:44389/Users and press user you want to change roles.
+		- Roles-Permission Management UI
+			- Add RoleClaimsViewModel and PermissionViewModel classes
+			- Add Claims Helper
+				- Add folder Helpers
+				- ClaimsHelper
+			- Add PermissionController 
+			- Add index view
+			
+			- Test it: go to localhost:44389/Roles and press rol you want to change permissions.
 		
