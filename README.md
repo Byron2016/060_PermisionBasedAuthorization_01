@@ -21,4 +21,8 @@
 			- Add UsersController
 			- Add Index view.
 			- Test it: localhost:44389/Users
+		- Role Management UI
+			- Add RolesController
+			- Add Index view.
+			- Test it: localhost:44389/Roles
 		
