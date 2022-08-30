@@ -8,4 +8,7 @@
 		- Change Default Connection Strings
 		- In Package Manager Console run: "Update-Database"
 		- Add service for IdentityUser and IdentityRole
+		- Pre-Defined Roles and Users
+			- Add Constants folder
+			- Add enum Roles
 		
