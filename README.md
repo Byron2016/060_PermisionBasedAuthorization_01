@@ -12,4 +12,8 @@
 			- Add Constants folder
 			- Add enum Roles
 			- Add permissions class
+		- Seeding Users and Roles
+			- Add Seeds folder
+			- Add DefaultRoles
+			- Add DefaultUsers
 		
