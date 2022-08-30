@@ -40,4 +40,10 @@
 			- Add index view
 			
 			- Test it: go to localhost:44389/Roles and press rol you want to change permissions.
+		- Permission control
+			- Permission Requirement
+				- Add folder Permission
+				- Add internal class PermissionRequirement implement IAuthorizationRequirement
+			- Authorization Handler
+				- Add internal class PermissionAuthorizationHandler implement AuthorizationHandler<PermissionRequirement>
 		
