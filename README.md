@@ -11,4 +11,5 @@
 		- Pre-Defined Roles and Users
 			- Add Constants folder
 			- Add enum Roles
+			- Add permissions class
 		
