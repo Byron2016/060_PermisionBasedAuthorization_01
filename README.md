@@ -17,4 +17,8 @@
 			- Add DefaultRoles
 			- Add DefaultUsers
 			- Modify Main method to seed database
+		- Displaying a List of Registered Users
+			- Add UsersController
+			- Add Index view.
+			- Test it: localhost:44389/Users
 		
