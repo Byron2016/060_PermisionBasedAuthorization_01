@@ -6,3 +6,5 @@
 		- Agregar proyecto ASP.NET Core Web app (Model-View-Controller)
 		- Add git ignore files.
 		- Change Default Connection Strings
+		- In Package Manager Console run: "Update-Database"
+		
