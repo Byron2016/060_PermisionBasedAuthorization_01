@@ -7,4 +7,5 @@
 		- Add git ignore files.
 		- Change Default Connection Strings
 		- In Package Manager Console run: "Update-Database"
+		- Add service for IdentityUser and IdentityRole
 		
