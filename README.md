@@ -45,5 +45,15 @@
 				- Add folder Permission
 				- Add internal class PermissionRequirement implement IAuthorizationRequirement
 			- Authorization Handler
+				- Inside folder Permission
 				- Add internal class PermissionAuthorizationHandler implement AuthorizationHandler<PermissionRequirement>
+			- Permission Policy Provider
+				- Inside folder Permission
+				- Add internal class PermissionPolicyProvider implement IAuthorizationPolicyProvider
+		- Registering the Service and test
+			- Add Singleton: IAuthorizationPolicyProvider, PermissionPolicyProvider
+			- Add Scoped: IAuthorizationHandler, PermissionAuthorizationHandler
+			- Test
+				- Add ProductController
+				- Add a Index view
 		
