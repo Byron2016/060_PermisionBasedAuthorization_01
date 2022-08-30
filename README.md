@@ -5,3 +5,4 @@
 		
 		- Agregar proyecto ASP.NET Core Web app (Model-View-Controller)
 		- Add git ignore files.
+		- Change Default Connection Strings
